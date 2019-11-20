@@ -1,0 +1,16 @@
+Rango|Nombre|Puntuación|Riesgo
+Categoria|Ambiente de trabajo|5|Bajo
+Categoria|Factores propios de la actividad|53|Alto
+Categoria|Organización del tiempo de trabajo|9|Medio
+Categoria|Liderazgo y relaciones en el trabajo|39|Medio
+Categoria|Entorno organizacional|22|Alto
+Dominio|Condiciones en el ambiente de trabajo|5|Bajo
+Dominio|Carga de trabajo|40|Muy alto
+Dominio|Falta de control sobre el trabajo|13|Bajo
+Dominio|Jornada de trabajo|4|Alto
+Dominio|Interferencia en la relación trabajo-familia|5|Bajo
+Dominio|Liderazgo|12|Medio
+Dominio|Relaciones en el trabajo|21|Muy alto
+Dominio|Violencia|6|Nulo o despreciable
+Dominio|Reconocimiento del desempeño|15|Alto
+Dominio|Insuficiente sentido de pertenencia e, inestabilidad|7|Medio
