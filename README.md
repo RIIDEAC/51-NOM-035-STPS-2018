@@ -23,3 +23,11 @@ Realizar el procedimiento sin poner en riesgo la confidencialidad de los trabaja
 Descargar los resultados en versión .txt
 
 Monitorear el avance en la captura de los cuestionarios de cada trabajador.
+
+# Demo del proyecto
+
+http://demo.nom035.org.mx/
+
+Usuario: demo@nom035.org.mx
+
+Contraseña: demoprueba
