@@ -31,3 +31,10 @@ http://demo.nom035.org.mx/
 Usuario: demo@nom035.org.mx
 
 Contraseña: demoprueba
+# ¿Te gustó, te sirvió, te beneficiaste?
+
+Apoyanos y obten un recibo deducible de impuestos
+
+http://nom035.org.mx/acerca-de-la-asociacion/
+
+
