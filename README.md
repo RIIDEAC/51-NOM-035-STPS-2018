@@ -2,7 +2,7 @@
 
 Sitio del proyecto: http://nom035.org.mx/
 
-La Red de Investigación Innovación Desarrollo y Estadística A.C. pone a la disposición de las asociaciones civiles con objetivos sociales objeto de fomento por la LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL y que cuentan con CLUNI activo los cuestionarios para el cumplimiento de la Norma Oficial Mexicana NOM-035-STPS-2018 de forma gratuita y confidencial.
+La Red de Investigación Innovación Desarrollo y Estadística A.C. pone a la disposición del público en general una pequeña aplicación para aplicar los cuestionarios para el cumplimiento de la Norma Oficial Mexicana NOM-035-STPS-2018 de forma gratuita y confidencial.
 
 Objetivo del programa:
 
