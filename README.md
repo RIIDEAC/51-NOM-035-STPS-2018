@@ -20,9 +20,19 @@ Obtener el resultado de riesgo por cada trabajador y en conjunto, por cada categ
 
 Realizar el procedimiento sin poner en riesgo la confidencialidad de los trabajadores, ya que la aplicación en ningún momento solicita ni requiere la captura de algún dato que haga posible la identificación del trabajador, por ejemplo: no solicita CURP, INE, Número de pasaporte u otro.
 
-Descargar los resultados en versión .txt
-
 Monitorear el avance en la captura de los cuestionarios de cada trabajador.
+
+****************************************************************************
+
+Configuraciones necesarias:
+
+--app/
+---core/
+----Config.php
+
+Colocar la configuración de la base de datos en el archivo Config.php
+
+****************************************************************************
 
 # Demo del proyecto
 
@@ -36,5 +46,3 @@ Contraseña: demoprueba
 Apoyanos y obten un recibo deducible de impuestos
 
 http://nom035.org.mx/acerca-de-la-asociacion/
-
-
