@@ -12,7 +12,7 @@ class Config
                     'author' => 'RIIDE AC',
                     'webauthor' => 'https://demo.nom035.org.mx/',
                     'description' => 'Cuestionarios para el cumplimiento de la NOM-035',
-                    'webbase' => 'http://demo.nom035.org.mx/'
+                    'webbase' => 'http://localhost/51-NOM-035-STPS-2018/'
                     ),
             'sesion' => 
                 array(
@@ -33,7 +33,7 @@ class Config
                 array(
                     'host' => '127.0.0.1',
                     'dbname' => 'demoNom035',
-                    'dbuser' => 'dNom035',
+                    'dbuser' => 'root',
                     'dbpass' => ''
                     ),
             'controllers' => 
