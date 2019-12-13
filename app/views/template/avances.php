@@ -18,13 +18,13 @@
 		if($avance=='No completado'){
 			echo('
 		  <div class="alert alert-danger" role="alert">
-			No completado
+			<strong>No completado</strong>
 		  </div>');
 		}
 		if ($avance=='Completado') {
 			echo('
 		  <div class="alert alert-success" role="alert">
-			Completado
+			<strong>Completado</strong>
 		  </div>');
 		}
 		?>
