@@ -19,7 +19,7 @@ class CrearTXT
 
 	public function crear($data = array(), $ruta = null)
 	{
-		unlink($ruta);
+		//unlink($ruta);
 
 		$texto = "Rango|Nombre|Puntuación|Riesgo\r\n";
 		
