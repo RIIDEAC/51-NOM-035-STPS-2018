@@ -3,7 +3,7 @@
 <h4>Cuestionario para identificar los factores de riesgo psicosocial en los centros de trabajo</h4>
 
 <h5>Por categoría</h5>
-<table>
+<table class="table table-bordered">
 	<tr>
 		<th>Categoría</th>
 		<th>Puntuación</th>
@@ -19,7 +19,7 @@
 </table>
 
 <h5>Por dominio</h5>
-<table>
+<table class="table table-bordered">
 	<tr>
 		<th>Dominio</th>
 		<th>Puntuación</th>
@@ -35,7 +35,7 @@
 </table>
 
 <h5>Total</h5>
-<table>
+<table class="table table-bordered">
 	<tr>
 		<th>Puntuación</th>
 		<th>Riesgo</th>
